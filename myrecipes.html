@@ -20,11 +20,24 @@
         </nav>
     </header>
     <div class="search-container">
-        <form action="/action_page.php"></form>
+        <div>
             <input type="text" placeholder="Search Recipes...">
             <button type="submit">Search<i class="fa fa-search"></i></button>
-            <button class="search-ingredient" type="submit">Search by Ingredients</button>
-        </form>
+            <button class="search-ingredient" onclick="document.getElementById('id01').style.display='block'">Search by Ingredients</button>
+        </div>
+        <div id="id01" class="modal">
+            <form class="modal-content animate" id="ingredient-form">
+                <div class="imgcontainer">
+                    <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+                    <img src="images/logo.jpg" alt="Logo" class="avatar">
+                </div>
+                <div class="container">
+                    <label for="srch-ingredients"><b>List your ingredients here: </b></label>
+                    <input type="text" id="srch-ingredients" placeholder="ex. all-purpose flour" name="srch-ingredients" required>
+                    <button type="submit" id="show-recipes">Show Recipes</button>
+                </div>
+            </form>
+        </div>
     </div>
     <div id="card-container">
     </div>
