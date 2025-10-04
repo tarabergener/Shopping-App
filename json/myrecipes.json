@@ -27,7 +27,7 @@
       "Serve over white rice. Pairs well with the Creamy Mac Salad recipe."
     ],
     "notes": "",
-    "image": ""
+    "image": "./images/myrecipes/chicken-tonkatsu.jpg"
   },
   {
     "title": "Creamy Chicken & Artichokes",
@@ -45,7 +45,7 @@
       "Serve over rice or noodles."
     ],
     "notes": "",
-    "image": ""
+    "image": "./images/myrecipes/chicken-artichokes.webp"
   },
   {
     "title": "Deli Ham Sliders",
@@ -72,7 +72,7 @@
       "Slice rolls into individual sandwiches and enjoy."
     ],
     "notes": "",
-    "image": ""
+    "image": "./images/myrecipes/ham-cheese-sliders.webp"
   },
   {
     "title": "Pan-fried Pork Chops",
@@ -97,7 +97,7 @@
       "Transfer to plates and serve with vegetables and potatoes."
     ],
     "notes": "",
-    "image": ""
+    "image": "./images/myrecipes/pork-chops.jpg"
   },
   {
     "title": "Beef Egg Rolls",
@@ -127,7 +127,7 @@
       "Serve with fried rice and sweet chili sauce."
     ],
     "notes": "",
-    "image": ""
+    "image": "./images/myrecipes/beef-egg-rolls.jpg"
   },
   {
     "title": "Hmong Egg Rolls",
@@ -174,7 +174,7 @@
       "Serve with Red Chili Sauce or Mae Ploy Sweet Chili Sauce."
     ],
     "notes": "Err on the side of caution if you have never used fish sauce. It has a very strong flavor. It can bring a lot of flavor to your dish if it is used properly.",
-    "image": ""
+    "image": "./images/myrecipes/hmong-egg-rolls.jpg"
   },
     {
     "title": "Country Fried Steak",
@@ -212,7 +212,7 @@
       "Serve with mashed potatoes and vegetables."
     ],
     "notes": "If cubed steaks are not available, use pork loin cut into ¾-inch slices, tenderized. This option is cheaper and works well for large families.",
-    "image": ""
+    "image": "./images/myrecipes/county-fried-steak.jpg"
   },
   {
     "title": "Sweet & Sour Meatballs",
@@ -235,7 +235,7 @@
       "Serve over rice."
     ],
     "notes": "",
-    "image": ""
+    "image": "./images/myrecipes/noimage.jpg"
   },
   {
     "title": "Chicken Fried Rice",
@@ -291,7 +291,7 @@
       "Bake 40–45 minutes until golden brown."
     ],
     "notes": "",
-    "image": ""
+    "image": "./images/myrecipes/noimage.jpg"
   },
   {
     "title": "Chicken Pot Pie",
@@ -324,7 +324,7 @@
       "Homemade Pastry: Mix flour and salt. Cut in shortening until pea-sized crumbs. Add water 1 Tbls at a time until dough holds together. Form ball. Roll out as directed."
     ],
     "notes": "",
-    "image": ""
+    "image": "./images/myrecipes/noimage.jpg"
   },
     {
     "title": "Vietnamese Chicken & Rice Bowls",
@@ -384,7 +384,8 @@
       "Stir sweet soy glaze into the pan with the beef mixture. Taste and season with salt and pepper. Stir in 2 Tbls until melted. Turn off heat.",
       "Fluff rice with a fork; season with salt to taste. Divide between bowls and top with kung pao beef. Sprinkle it with remaining green onions and peanuts."
     ],
-    "notes": ""
+    "notes": "",
+    "image": "./images/myrecipes/noimage.jpg"
   },
   {
     "title": "Mushroom & Pepper Jack Quesadillas",
@@ -412,7 +413,8 @@
       "Meanwhile, in a second small bowl, combine tomato, chopped onion, juice from remaining lime wedges, and as much jalapeno as you’d like. Season with salt and pepper.",
       "Evenly sprinkle one half of each tortilla with cheese, then mushrooms and caramelized onions; fold tortillas in half to create quesadillas. Heat a drizzle of oil in the pan used for onion over medium heat. Add 2 quesadillas at a time and cook until tortillas are browned and cheese melts, 3 to 5 minutes per side. Cut into wedges, divide between plates, and serve with lime crema and spicy pico."
     ],
-    "notes": "If mushrooms are not preferred, they can be replaced with ground beef. Pepper Jack cheese can also be replaced with Colby Jack."
+    "notes": "If mushrooms are not preferred, they can be replaced with ground beef. Pepper Jack cheese can also be replaced with Colby Jack.",
+    "image": "./images/myrecipes/noimage.jpg"
   },
   {
     "title": "Chicken Enchiladas",
@@ -433,7 +435,8 @@
       "Fill tortillas with chicken mixture, roll up tortillas and place in a 9x13 dish. Top with remainder of sauce and cheddar cheese.",
       "Bake for 20 to 30 minutes or until tortillas are golden brown. Remove from the oven and top with tomatoes and olives."
     ],
-    "notes": ""
+    "notes": "",
+    "image": "./images/myrecipes/noimage.jpg"
   },
   {
     "title": "Chicken Gnocchi Soup",
@@ -469,7 +472,8 @@
       "Add chicken, chicken broth, salt, pepper, milk, heavy cream, and parsley, bring to a boil, then gently stir in gnocchi. Boil for 3-4 minutes longer before reducing heat to a simmer and cooking for 10 minutes.",
       "Stir in parmesan cheese and spinach and cook another 1-2 minutes until spinach is tender. Taste, add salt and pepper if needed, and serve."
     ],
-    "notes": "If you want your gnocchi to have a fun texture or shape, take each 1 inch dough piece, dip into a small amount of flour, and roll it across a fork or create an indent with your pointer finger. For even more creamy richness, replace one cup of milk for an additional cup of heavy cream."
+    "notes": "If you want your gnocchi to have a fun texture or shape, take each 1 inch dough piece, dip into a small amount of flour, and roll it across a fork or create an indent with your pointer finger. For even more creamy richness, replace one cup of milk for an additional cup of heavy cream.",
+    "image": "./images/myrecipes/noimage.jpg"  
   },
   {
     "title": "Butter Chicken",
@@ -503,7 +507,8 @@
       "Stir in the remaining two tablespoons of butter and season with more salt and pepper to taste.",
       "Serve the chicken over rice and garnish with cilantro."
     ],
-    "notes": "If heavy cream is not available, it can be substituted with milk."
+    "notes": "If heavy cream is not available, it can be substituted with milk.",
+    "image": "./images/myrecipes/noimage.jpg"  
   },
   {
     "title": "Brown Butter Sage Pierogis",
@@ -532,7 +537,8 @@
       "In a skillet, melt butter until browned and nutty, add sage leaves, then toss pierogis in butter to coat.",
       "Serve hot, garnished with extra sage if desired."
     ],
-    "notes": ""
+    "notes": "",
+    "image": "./images/myrecipes/noimage.jpg"
   },
   {
     "title": "Chili",
@@ -559,7 +565,8 @@
       "Bring the chili to a boil. Once boiling, decrease the heat to low and simmer the chili for about 45 min to an hour.",
       "Serve when beans are soft. Pairs well with macaroni and cheese, tortilla chips, fries, baked potatoes, etc."
     ],
-    "notes": "Rotel can also be used as a substitute for diced tomatoes."
+    "notes": "Rotel can also be used as a substitute for diced tomatoes.",
+    "image": "./images/myrecipes/noimage.jpg"  
   },
   {
     "title": "Cashew Chicken",
@@ -599,6 +606,7 @@
       "Garnish with thinly sliced green onions and sprinkle of sesame seeds for added flavor and visual appeal.",
       "Serve immediately over steamed jasmine rice or tender noodles for a complete meal."
     ],
-    "notes": ""
+    "notes": "",
+    "image": "./images/myrecipes/noimage.jpg"
   }
 ]
