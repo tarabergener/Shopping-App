@@ -28,6 +28,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 const recipeName = document.createElement('h2');
                 recipeName.textContent = recipe.title;
 
+                const recipeImage = document.createElement('img');
+                recipeImage.src = recipe.image;
+                recipeImage.alt = recipe.title;
+                recipeImage.classList.add('recipe-image');
+                recipeCard.appendChild(recipeImage);
+
                 const ingredientsTitle = document.createElement('h3');
                 ingredientsTitle.textContent = 'Ingredients:';
                 const ingredientsList = document.createElement('ul');
