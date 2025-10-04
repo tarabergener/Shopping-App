@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css"/>
+    <title>Recipe Finder Application</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <img src="images/logo.jpg" alt="RecipeFinder" width="200px"></img>
+            <ul class="nav-bar">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="browse-recipes.html">Recipes</a></li>
+                <li><a href="#">My Recipes</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="account.html">My Account</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="search-container">
+        <form action="/action_page.php"></form>
+            <input type="text" placeholder="Search Recipes...">
+            <button type="submit">Search<i class="fa fa-search"></i></button>
+            <button class="search-ingredient" type="submit">Search by Ingredients</button>
+        </form>
+    </div>
+    <div class="card-container">
+        <section class="recipe-details">
+            <h3 id="recipeName">Halloween Gingerbread Cupcakes</h3>
+            <h2 class="divider" id="productNameWithoutBrand"></h2>
+            <img id="recipeImage" class="divider" alt="" src ="./images/recipes/halloween-gingerbread-cupcake.webp" width="250px"></img>
+            <p class="recipe__difficulty" id="recipeDifficulty">Difficulty: &#9679;&#9679;&#9679;</p>
+            <p class="recipe__time" id="recipeTime">Total Time: 15 min</p>
+            <p class="recipe__category" id="recipeCategory">Meal: Dinner</p>
+            <p>Tags</p>
+            <div>
+                <button id="viewRecipe" data-id="">View Recipe</button>
+            </div>
+        </section>
+    </div>
+    <footer>
+        <p>Tara Bergener | CSE310 Applied Programming | &copy; <span id='current-year'>2023</span></p>
+    </footer>
+    <script src="js/footer.js"></script>
+</body>
+</html>
